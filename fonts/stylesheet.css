@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'Built Titling Bold' ;
+    src: url(../fonts/BuiltTitlingRg-Bold.woff2) format('woff2');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Built Titling Rg';
+    src: url('BuiltTitlingRg-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Built Titling Lt';
+    src: url('BuiltTitlingLt-Regular.woff2') format('woff2');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'Anton';
+    src: url('Anton.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
